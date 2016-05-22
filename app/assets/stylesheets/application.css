@@ -1,4 +1,8 @@
 /*
+ *= require bootstrap/dist/css/bootstrap
+ *= require metisMenu/dist/metisMenu
+ *= require angular-loading-bar/build/loading-bar
+ *= require font-awesome/css/font-awesome
  *= require_tree .
  *= require_self
  */

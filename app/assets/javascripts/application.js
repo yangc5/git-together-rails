@@ -1,1 +1,11 @@
+//= require jquery/dist/jquery
+//= require angular/angular
+//= require bootstrap/dist/js/bootstrap
+//= require angular-ui-router/release/angular-ui-router
+//= require json3/lib/json3
+//= require oclazyload/dist/ocLazyLoad
+//= require angular-loading-bar/build/loading-bar
+//= require angular-bootstrap/ui-bootstrap-tpls
+//= require metisMenu/dist/metisMenu
+//= require Chart.js/Chart
 //= require_tree .
